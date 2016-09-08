@@ -1,0 +1,3 @@
+[submodule "QDiscord"]
+	path = QDiscord
+	url = git@github.com:george99g/QDiscord.git
